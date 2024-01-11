@@ -14,7 +14,7 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 - **Description**: Responsive Restaurant Review Website, incorporated Google Maps API, to create a website that filters restaurants in your area, according to rating and distance, and has the possibility to add reviews and restaurants.
 - **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
 - [Link to Repository](https://github.com/RockL30/p7-oc)
-- 
+  
 ### Project 3 - Todo App
 - **Description**: Analyse, fix, optimize and run tests on existing project.
 - **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
