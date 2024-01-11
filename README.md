@@ -5,21 +5,21 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 
 ## Last Projects
 
-### Project 1 - Javascript Game
+### Javascript Game
 - **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
 - **Technologies Used**: HTML, CSS, JS, Bootstrap.
 - [Link to Repository](https://github.com/RockL30/p6-oc) 
 
-### Project 2 - Restaurant Review
+### Restaurant Review
 - **Description**: Responsive Restaurant Review Website, incorporated Google Maps API, to create a website that filters restaurants in your area, according to rating and distance, and has the possibility to add reviews and restaurants.
 - **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
 - [Link to Repository](https://github.com/RockL30/p7-oc)
   
-### Project 3 - Todo App
+### Todo App
 - **Description**: Analyse, fix, optimize and run tests on existing project.
 - **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
 - [Link to Repository](https://github.com/RockL30/p8-oc)
-- 
+  
 ## Let's Connect!
 
 If you like my work, consider following me on GitHub or reaching out for collaborations.
