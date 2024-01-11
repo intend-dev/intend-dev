@@ -8,7 +8,7 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 ### Javascript Game
 - **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
 - **Technologies Used**: HTML, CSS, JS, Bootstrap.
-- [Link to Repository](https://github.com/RockL30/p6-oc)
+- [Link to Repository](https://github.com/RockL30/JSTurnGame)
 
 ### Restaurant Review
 - **Description**: Responsive Restaurant Review Website, incorporated Google Maps API, to create a website that filters restaurants in your area, according to rating and distance, and has the possibility to add reviews and restaurants.
@@ -18,7 +18,7 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 ### Todo App (Avalaible Soon)
 - **Description**: Analyse, fix, optimize and run tests on existing project.
 - **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
-- [Link to Repository](https://github.com/RockL30/Responsive-Restaurant-Review)
+- [Link to Repository]()
   
 ## Let's Connect!
 
