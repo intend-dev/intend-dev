@@ -15,10 +15,10 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 - **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
 - [Link to Repository](https://github.com/RockL30/Responsive-Restaurant-Review)
   
-### Todo App (Avalaible Soon)
+### Todo App 
 - **Description**: Analyse, fix, optimize and run tests on existing project.
 - **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
-- [Link to Repository]()
+- [Link to Repository](https://github.com/RockL30/p8-oc)
   
 ## Let's Connect!
 
