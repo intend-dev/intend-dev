@@ -11,7 +11,7 @@ I'm a Software Engineer at Sii Poland, passionate about web development and cont
 - [Link to Repository](https://github.com/RockL30/JSTurnGame)
 
 ### Restaurant Review
-- **Description**: Responsive Restaurant Review Website, incorporated Google Maps API, to create a website that filters restaurants in your area, according to rating and distance, and has the possibility to add reviews and restaurants.
+- **Description**: Created a website that integrates Google Maps Api, to retrieve, filter, and comment nearby restaurants 
 - **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
 - [Link to Repository](https://github.com/RockL30/Responsive-Restaurant-Review)
   
