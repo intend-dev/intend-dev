@@ -1,7 +1,7 @@
 # Hi 👋, I'm Francisco Mateus
 
 ## About me
-I'm a Software Engineer at Sii Poland, passionate about web development and continuous learning. I specialize in ServiceNow, but I'm transitioning back to Web Development. Recently, I've been focusing on Full-Stack Web Development using React.
+I'm passionate about web development and continuous learning.
 
 ## Last Projects
 
