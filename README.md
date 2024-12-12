@@ -1,5 +1,3 @@
-# Hi 👋
-
 ## About me
 I'm passionate about web development and continuous learning.
 
