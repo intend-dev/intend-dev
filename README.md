@@ -1,7 +1,7 @@
 ## About me
 I'm passionate about web development and continuous learning.
 
-## Last Projects
+## Last Publically Available Projects 
 
 ### Javascript Game
 - **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
@@ -22,9 +22,7 @@ I'm passionate about web development and continuous learning.
 
 If you like my work, consider following me on GitHub or reaching out for collaborations.
 
-- 🔭 I’m currently working on [Unit Testing](https://github.com/RockL30/p8-oc)
-- 🌱 I’m currently learning **React, Redux, Next.js, Tailwind, Daisy, Figma, Cypress**
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+- I’m currently learning **Python with NumPy/pandas/Matplotlib, applied statistics, and AI topics across machine learning, deep learning, and generative/agentic systems**.
 
 ### Connect with me:
 
