@@ -1,7 +1,7 @@
 ## About me
-I'm passionate about web development and continuous learning.
+Curious by nature, I’m steadily digging into data problems to see how far I can push my skills.
 
-## Last Publically Available Projects 
+## Latest Publicly Available Projects
 
 ### Javascript Game
 - **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
@@ -21,9 +21,6 @@ I'm passionate about web development and continuous learning.
 ## Let's Connect!
 
 If you like my work, consider following me on GitHub or reaching out for collaborations.
-
 - I’m currently learning **Python with NumPy/pandas/Matplotlib, applied statistics, and AI topics across machine learning, deep learning, and generative/agentic systems**.
-
-### Connect with me:
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/franc1scomat/)
