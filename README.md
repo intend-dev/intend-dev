@@ -1,24 +1,24 @@
 ## About me
 Curious by nature, I’m steadily digging into data problems to see how far I can push my skills.
 
-## Latest Publicly Available Projects
+### Latest Publicly Available Projects
 
-### Javascript Game
+#### Javascript Game
 - **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
 - **Technologies Used**: HTML, CSS, JS, Bootstrap.
 - [Link to Repository](https://github.com/RockL30/JSTurnGame)
 
-### Restaurant Review
+#### Restaurant Review
 - **Description**: Created a website that integrates Google Maps Api, to retrieve, filter, and comment nearby restaurants 
 - **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
 - [Link to Repository](https://github.com/RockL30/Responsive-Restaurant-Review)
   
-### Todo App 
+#### Todo App 
 - **Description**: Analyse, fix, optimize and run tests on existing project.
 - **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
 - [Link to Repository](https://github.com/RockL30/p8-oc)
   
-## Let's Connect!
+### Let's Connect!
 
 If you like my work, consider following me on GitHub or reaching out for collaborations.
 - I’m currently learning **Python with NumPy/pandas/Matplotlib, applied statistics, and AI topics across machine learning, deep learning, and generative/agentic systems**.
