@@ -1,16 +1,16 @@
 ## About me
-Curious by nature, I’m steadily digging into data problems to see how far I can push my skills.
+Curious by nature, digging into data problems to see how far I can push my skills.
 
 ### Latest Publicly Available Projects
 
 #### Portfolio Website
-- **Description**: My portfolio site, covering my work as an Application Specialist in AI and Master Data, a static Astro site with hand-written CSS and no client framework.
+- **Description**: My portfolio site, covering my work as an Application Specialist in AI and Master Data. This portfolio is a static Astro site with hand-written CSS and no client framework.
 - **Technologies Used**: Astro, TypeScript, HTML, CSS, GitHub Pages.
 - **Live Site**: [intend-dev.github.io](https://intend-dev.github.io/)
 - [Link to Repository](https://github.com/intend-dev/intend-dev.github.io)
 
 #### AI Programming Foundations Project
-- **Description**: A reproducible data workflow over the Titanic passenger manifest — missing-data assessment, cleaning with pure functions, survival analysis by sex, class, title and deck, five labelled figures and a written summary.
+- **Description**: A reproducible data workflow over the Titanic passenger manifest, missing-data assessment, cleaning with pure functions, survival analysis by sex, class, title and deck, five labelled figures and a written summary.
 - **Technologies Used**: Python, Jupyter, pandas, NumPy, Matplotlib, Seaborn.
 - [Link to Repository](https://github.com/intend-dev/ai-programming-foundations-project)
 
