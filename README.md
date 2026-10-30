@@ -4,7 +4,7 @@ Curious by nature, I’m steadily digging into data problems to see how far I ca
 ### Latest Publicly Available Projects
 
 #### Portfolio Website
-- **Description**: My portfolio site, covering my work as an Application Specialist in AI and Master Data — a static Astro site with hand-written CSS and no client framework.
+- **Description**: My portfolio site, covering my work as an Application Specialist in AI and Master Data, a static Astro site with hand-written CSS and no client framework.
 - **Technologies Used**: Astro, TypeScript, HTML, CSS, GitHub Pages.
 - **Live Site**: [intend-dev.github.io](https://intend-dev.github.io/)
 - [Link to Repository](https://github.com/intend-dev/intend-dev.github.io)
