@@ -3,21 +3,22 @@ Curious by nature, I’m steadily digging into data problems to see how far I ca
 
 ### Latest Publicly Available Projects
 
-#### Javascript Game
-- **Description**: Turn based JS game, with game map, obstacles, weapons and attack patterns.
-- **Technologies Used**: HTML, CSS, JS, Bootstrap.
-- [Link to Repository](https://github.com/intend-dev/JSTurnGame)
+#### Portfolio Website
+- **Description**: My portfolio site, covering my work as an Application Specialist in AI and Master Data — a static Astro site with hand-written CSS and no client framework.
+- **Technologies Used**: Astro, TypeScript, HTML, CSS, GitHub Pages.
+- **Live Site**: [intend-dev.github.io](https://intend-dev.github.io/)
+- [Link to Repository](https://github.com/intend-dev/intend-dev.github.io)
 
-#### Restaurant Review
-- **Description**: Created a website that integrates Google Maps Api, to retrieve, filter, and comment nearby restaurants 
-- **Technologies Used**: HTML, CSS, JS, Bootstrap, React, Material UI.
-- [Link to Repository](https://github.com/intend-dev/Responsive-Restaurant-Review)
-  
-#### Todo App 
-- **Description**: Analyse, fix, optimize and run tests on existing project.
-- **Technologies Used**: HTML, CSS, JS, Webpack, Jasmine, Gitbook, Markdown.
-- [Link to Repository](https://github.com/intend-dev/p8-oc)
-  
+#### AI Programming Foundations Project
+- **Description**: A reproducible data workflow over the Titanic passenger manifest — missing-data assessment, cleaning with pure functions, survival analysis by sex, class, title and deck, five labelled figures and a written summary.
+- **Technologies Used**: Python, Jupyter, pandas, NumPy, Matplotlib, Seaborn.
+- [Link to Repository](https://github.com/intend-dev/ai-programming-foundations-project)
+
+#### Statistical Analysis with Python
+- **Description**: Exploratory and inferential analysis of income by sex in the UCI Adult dataset, ending in a chi-square test of independence with a written report.
+- **Technologies Used**: Python, Jupyter, pandas, NumPy, SciPy, Matplotlib, Seaborn.
+- [Link to Repository](https://github.com/intend-dev/Statistical-Analysis-with-Python)
+
 ### Let's Connect!
 
 If you like my work, consider following me on GitHub or reaching out for collaborations.
