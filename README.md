@@ -9,6 +9,11 @@ Curious by nature, digging into data problems to see how far I can push my skill
 - **Live Site**: [intend-dev.github.io](https://intend-dev.github.io/)
 - [Link to Repository](https://github.com/intend-dev/intend-dev.github.io)
 
+#### Applied Machine Learning: Credit Card Default
+- **Description**: Capstone predicting next-month credit card default on the UCI Default of Credit Card Clients dataset: preprocessing, model comparison and tuning (random forest, ROC AUC 0.78 on a held-out test set), fairness checks and a written report.
+- **Technologies Used**: Python, Jupyter, scikit-learn, pandas, NumPy, Matplotlib.
+- [Link to Repository](https://github.com/intend-dev/applied-machine-learning-credit-card-default)
+
 #### AI Programming Foundations Project
 - **Description**: A reproducible data workflow over the Titanic passenger manifest, missing-data assessment, cleaning with pure functions, survival analysis by sex, class, title and deck, five labelled figures and a written summary.
 - **Technologies Used**: Python, Jupyter, pandas, NumPy, Matplotlib, Seaborn.
