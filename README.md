@@ -9,6 +9,11 @@ Curious by nature, digging into data problems to see how far I can push my skill
 - **Live Site**: [intend-dev.github.io](https://intend-dev.github.io/)
 - [Link to Repository](https://github.com/intend-dev/intend-dev.github.io)
 
+#### Deep Learning Systems: Cat and Dog Breed Classification
+- **Description**: Deep Learning capstone comparing a small CNN trained from scratch with a ResNet18 fine-tuned from ImageNet weights on the Oxford-IIIT Pet dataset: 37 breeds, 7,349 photographs, identical training rules; the pretrained model reaches 0.89 test accuracy against 0.20 from scratch.
+- **Technologies Used**: Python, PyTorch, Jupyter, Matplotlib.
+- [Link to Repository](https://github.com/intend-dev/deep-learning-cat-and-dog-breed-classification)
+
 #### Applied Machine Learning: Credit Card Default
 - **Description**: Capstone predicting next-month credit card default on the UCI Default of Credit Card Clients dataset: preprocessing, model comparison and tuning (random forest, ROC AUC 0.78 on a held-out test set), fairness checks and a written report.
 - **Technologies Used**: Python, Jupyter, scikit-learn, pandas, NumPy, Matplotlib.
